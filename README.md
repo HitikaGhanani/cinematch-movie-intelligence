@@ -162,9 +162,3 @@ pytest -q
 
 **Hitika Ghanani**  
 Aspiring Data Scientist / Machine Learning Engineer
-
-Update this section with your GitHub, LinkedIn, and portfolio links before publishing.
-
-## License
-
-MIT License. See `LICENSE`.
